@@ -1,1 +1,1 @@
-House price prediction project using linear regression. I realied on regression and correlation plots to make feature selection in order to reduce multicolinearity
+House price prediction project using scikit learn linear regression. I realied on regression and correlation plots to make xfeaturex selection in order to reduce multicolinearity
