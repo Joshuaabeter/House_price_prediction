@@ -1,1 +1,1 @@
-This is a house price prediction project using simple parsimonious linear regression.
+House price prediction project using scikit learn linear regression. I realied on regression and correlation plots to make xfeaturex selection in order to reduce multicolinearity
